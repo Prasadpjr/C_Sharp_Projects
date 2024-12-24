@@ -1,0 +1,12 @@
+{
+  "uuid": "b6c2437f-92f7-4208-8fbe-ff3f91ea360b",
+  "name": "TestProject_CSharp.LabTestCases.RegistrationFunctionality.addCustomer(\"Nithin\",\"Kumar\",675645)",
+  "children": [
+    "4fc3012c-1f95-4d3b-8573-5055462de4ec"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734081795961,
+  "stop": 1734081795963
+}

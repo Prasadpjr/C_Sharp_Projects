@@ -1,0 +1,56 @@
+{
+  "uuid": "620cdcf7-3fd8-4598-a0dd-6f17b9d0ac11",
+  "historyId": "0441cdaa039baf840bfb845f36c828dc",
+  "testCaseId": "15e132b159f6b6aff57ce0971d39e30a",
+  "fullName": "TestProject_CSharp:TestProject_CSharp.LabTestCases.RegistrationFunctionality.assertion1(System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOQFCYDAK2U4M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProject_CSharp.LabTestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "assertion1"
+    },
+    {
+      "name": "testClass",
+      "value": "RegistrationFunctionality"
+    },
+    {
+      "name": "tag",
+      "value": "Other"
+    }
+  ],
+  "links": [],
+  "name": "assertion1(\"Ganesh\")",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This is Sanity test suite\n",
+  "steps": [],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "name",
+      "value": "\"Ganesh\"",
+      "excluded": false
+    }
+  ],
+  "start": 1734081795964,
+  "stop": 1734081795966
+}

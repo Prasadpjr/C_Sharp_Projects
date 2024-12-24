@@ -1,0 +1,56 @@
+{
+  "uuid": "2e035e44-e2e3-41f5-aaf2-096b6516f71f",
+  "historyId": "603a64f234f7b60e9f00b3196ed03d58",
+  "testCaseId": "00caa5bccb9c08058c52fe035aeca1f3",
+  "fullName": "TestProject_CSharp:TestProject_CSharp.LabTestCases.RegistrationFunctionality.bankManagerLogin()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOQFCYDAK2U4M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProject_CSharp.LabTestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "bankManagerLogin"
+    },
+    {
+      "name": "testClass",
+      "value": "RegistrationFunctionality"
+    },
+    {
+      "name": "tag",
+      "value": "Logintest"
+    }
+  ],
+  "links": [],
+  "name": "bankManagerLogin",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This is Sanity test suite\n",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "f9d35aeb-ea49-4c04-9bd5-f3cf85f8c938-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734081795903,
+  "stop": 1734081795906
+}

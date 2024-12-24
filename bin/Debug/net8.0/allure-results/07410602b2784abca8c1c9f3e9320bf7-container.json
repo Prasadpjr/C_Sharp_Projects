@@ -1,0 +1,12 @@
+{
+  "uuid": "006f060d-3c39-46d7-87f1-ec414f5e6c95",
+  "name": "TestProject_CSharp.LabTestCases.RegistrationFunctionality.bankManagerLogin",
+  "children": [
+    "2e035e44-e2e3-41f5-aaf2-096b6516f71f"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734081795902,
+  "stop": 1734081795920
+}

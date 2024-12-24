@@ -1,0 +1,51 @@
+{
+  "uuid": "ac8364e7-5d3e-49f6-9052-6726e7580c42",
+  "historyId": "cc5a4e2636f8820db19a6650cfdc7091",
+  "testCaseId": "e71710e5074cfbd2744c9ce509c1d5e5",
+  "fullName": "TestProject_CSharp:TestProject_CSharp.NunitTests.AllureReport.search()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOQFCYDAK2U4M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProject_CSharp.NunitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "search"
+    },
+    {
+      "name": "testClass",
+      "value": "AllureReport"
+    }
+  ],
+  "links": [],
+  "name": "search",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "918b6a98-0ccf-48bc-8f69-dfebab95027e-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734071895625,
+  "stop": 1734071895626
+}

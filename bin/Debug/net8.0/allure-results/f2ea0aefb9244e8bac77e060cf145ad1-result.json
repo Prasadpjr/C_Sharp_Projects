@@ -1,0 +1,45 @@
+{
+  "uuid": "c0caf5e1-f0ac-4d07-b6ad-2a388545df0c",
+  "historyId": "5df4eeeecbb84afde9403a2222c94f45",
+  "testCaseId": "f8dabbe02a9e685883b01fe3f8148c50",
+  "fullName": "TestProject_CSharp:TestProject_CSharp.SeleniumC_.ParallelExecution.testCase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#15"
+    },
+    {
+      "name": "host",
+      "value": "AUTOQFCYDAK2U4M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProject_CSharp.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testCase1"
+    },
+    {
+      "name": "testClass",
+      "value": "ParallelExecution"
+    }
+  ],
+  "links": [],
+  "name": "testCase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734591997330,
+  "stop": 1734592016025
+}

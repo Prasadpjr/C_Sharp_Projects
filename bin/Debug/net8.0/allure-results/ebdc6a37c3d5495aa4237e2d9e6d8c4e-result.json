@@ -1,0 +1,67 @@
+{
+  "uuid": "eda2dca4-414b-4702-a2d4-b353d55c3b3d",
+  "historyId": "cb777aa2c1b1e92c8ae937a979a2206f",
+  "testCaseId": "5d048eb827e744806009fa456c113626",
+  "fullName": "TestProject_CSharp:TestProject_CSharp.LabTestCases.RegistrationFunctionality.openAccount(System.String,System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOQFCYDAK2U4M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProject_CSharp.LabTestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "openAccount"
+    },
+    {
+      "name": "testClass",
+      "value": "RegistrationFunctionality"
+    },
+    {
+      "name": "tag",
+      "value": "Registration"
+    }
+  ],
+  "links": [],
+  "name": "openAccount(\"Nithin\",\"Rupee\")",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This is Sanity test suite\n",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "d5ddf54b-87f9-46ca-bb55-2b1dff217a51-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "customer",
+      "value": "\"Nithin\"",
+      "excluded": false
+    },
+    {
+      "name": "currency",
+      "value": "\"Rupee\"",
+      "excluded": false
+    }
+  ],
+  "start": 1734081795950,
+  "stop": 1734081795951
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "38fff988-62aa-4363-b94c-f1dec3b9fa47",
+  "name": "TestProject_CSharp.LabTestCases.RegistrationFunctionality.assertion1(\"Ganesh\")",
+  "children": [
+    "620cdcf7-3fd8-4598-a0dd-6f17b9d0ac11"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734081795964,
+  "stop": 1734081795967
+}

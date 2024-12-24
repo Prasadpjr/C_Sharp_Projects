@@ -1,0 +1,12 @@
+{
+  "uuid": "1b86b3ed-cef7-413b-9015-29f636c6f0bc",
+  "name": "TestProject_CSharp.LabTestCases.RegistrationFunctionality.Customer(\"Rashmi\")",
+  "children": [
+    "f50dd9e2-0f89-4e76-8d7e-6aa196e137ec"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592952789,
+  "stop": 1734592952793
+}

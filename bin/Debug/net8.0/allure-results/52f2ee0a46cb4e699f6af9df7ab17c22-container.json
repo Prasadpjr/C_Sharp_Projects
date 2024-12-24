@@ -1,0 +1,12 @@
+{
+  "uuid": "b3a785b6-e117-4663-aa20-330bb32f5124",
+  "name": "TestProject_CSharp.SeleniumC_.ParallelExecution.testCase2",
+  "children": [
+    "5e4834e8-6869-4c71-bd0b-03274cd1d5fe"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592126569,
+  "stop": 1734592144190
+}

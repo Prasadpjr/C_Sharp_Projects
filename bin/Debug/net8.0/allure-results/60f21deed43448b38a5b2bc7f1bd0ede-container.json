@@ -1,0 +1,12 @@
+{
+  "uuid": "c0d59b5b-7fdb-4c9d-a2f6-8e19e5c1a6a3",
+  "name": "TestProject_CSharp.LabTestCases.RegistrationFunctionality.openAccount(\"Prasad\",\"dollor\")",
+  "children": [
+    "a035a265-05c9-4150-9dbb-774492daa904"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734081795944,
+  "stop": 1734081795948
+}

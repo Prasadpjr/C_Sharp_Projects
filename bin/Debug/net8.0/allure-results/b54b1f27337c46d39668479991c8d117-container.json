@@ -1,0 +1,12 @@
+{
+  "uuid": "5e348bf7-c299-440d-bdd0-a9ccbdae6a28",
+  "name": "TestProject_CSharp.LabTestCases.RegistrationFunctionality.openAccount(\"Nithin\",\"Rupee\")",
+  "children": [
+    "eda2dca4-414b-4702-a2d4-b353d55c3b3d"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734081795950,
+  "stop": 1734081795952
+}

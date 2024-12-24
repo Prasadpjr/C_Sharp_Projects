@@ -1,0 +1,52 @@
+{
+  "uuid": "4f46aadd-4e73-42c5-ad4a-6905df5ff64b",
+  "historyId": "f038723d8f20d20a79d190f16eb59f96",
+  "testCaseId": "ff20577b4ee2f5fedc1572c10830c4fd",
+  "fullName": "TestProject_CSharp:TestProject_CSharp.SeleniumC_.ParallelExecution.testCase2()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#15"
+    },
+    {
+      "name": "host",
+      "value": "AUTOQFCYDAK2U4M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProject_CSharp.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testCase2"
+    },
+    {
+      "name": "testClass",
+      "value": "ParallelExecution"
+    }
+  ],
+  "links": [],
+  "name": "testCase2",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TearDown : OpenQA.Selenium.WebDriverException : Tried to run command without establishing a connection",
+    "trace": "--TearDown\r\n   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Close()\r\n   at TestProject_CSharp.SeleniumC_.ParallelExecution.stopBrowser() in C:\\Users\\ppooj\\source\\repos\\TestProject_CSharp\\TestProject_CSharp\\SeleniumC#\\ParallelExecution.cs:line 46\r\n   at InvokeStub_ParallelExecution.stopBrowser(Object, Object, IntPtr*)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734592346545,
+  "stop": 1734592366534
+}

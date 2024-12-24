@@ -1,0 +1,16 @@
+{
+  "uuid": "735a7002-6b13-427e-b3bb-3ff8d6904950",
+  "name": "TestProject_CSharp.LabTestCases.RegistrationFunctionality",
+  "children": [
+    "88502171-27af-4810-8e57-e973561f528e",
+    "ed5f2ef0-3822-442b-926b-7804d5e968b2",
+    "f50dd9e2-0f89-4e76-8d7e-6aa196e137ec",
+    "b5d9f6b5-1c47-46c7-91b8-0bce9297bab6",
+    "2fee0042-9e4e-4db8-a5ff-7b92b461ff2c"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592952731,
+  "stop": 1734592952805
+}

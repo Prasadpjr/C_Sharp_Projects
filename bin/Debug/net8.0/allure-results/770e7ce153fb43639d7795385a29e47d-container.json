@@ -1,0 +1,12 @@
+{
+  "uuid": "08476170-d2a2-4a3d-8461-9403147ce927",
+  "name": "TestProject_CSharp.NunitTests.AllureReport.login",
+  "children": [
+    "4907ed2e-42dc-4d3d-ac2d-66d53cf6c090"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1733991714931,
+  "stop": 1733991714986
+}

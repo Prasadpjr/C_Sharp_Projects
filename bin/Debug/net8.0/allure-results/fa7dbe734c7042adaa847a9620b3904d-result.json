@@ -1,0 +1,72 @@
+{
+  "uuid": "38b74e4e-8cf4-43e8-ad34-bfcb980f9e07",
+  "historyId": "f1daf9af53536d6feb8d3fdeaf4725e7",
+  "testCaseId": "7e132d4b1538f1930d508a2da4815bb0",
+  "fullName": "TestProject_CSharp:TestProject_CSharp.LabTestCases.RegistrationFunctionality.addCustomer(System.String,System.String,System.Int32)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOQFCYDAK2U4M"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProject_CSharp.LabTestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "addCustomer"
+    },
+    {
+      "name": "testClass",
+      "value": "RegistrationFunctionality"
+    },
+    {
+      "name": "tag",
+      "value": "Registration"
+    }
+  ],
+  "links": [],
+  "name": "addCustomer(\"Prasad\",\"Poojary\",554433)",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This is Sanity test suite\n",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "21223222-3c11-4761-9abd-01a6aac2f997-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "firstName",
+      "value": "\"Prasad\"",
+      "excluded": false
+    },
+    {
+      "name": "Lastname",
+      "value": "\"Poojary\"",
+      "excluded": false
+    },
+    {
+      "name": "postcode",
+      "value": "554433",
+      "excluded": false
+    }
+  ],
+  "start": 1734081795958,
+  "stop": 1734081795959
+}
