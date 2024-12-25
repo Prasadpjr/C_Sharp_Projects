@@ -12,6 +12,11 @@ namespace TestProject_CSharp
         {
             Assert.Pass();
         }
+        [Tear down]
+        public void Test1()
+        {
+            Assert.Pass();
         }
+    }
     }
 }
